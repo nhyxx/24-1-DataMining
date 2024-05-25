@@ -1,4 +1,4 @@
-# 24-1-DataMining
+# DataMining Team Project 
 서울과학기술대학교 산업정보시스템전공 데이터마이닝 팀 프로젝트
 
 ### Members
