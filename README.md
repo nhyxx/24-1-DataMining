@@ -20,6 +20,9 @@ MZ 세대 새로운 재테크로 떠오르고 있는 리셀테크
 
 ### Data
 Kream 사이트 내 상품 정보 크롤링
+````
+kream_data.csv
+````
 
 |Feature Name|Type|Description|
 |:---:|:---:|:---|
@@ -41,9 +44,7 @@ Kream 사이트 내 상품 정보 크롤링
 ### Data Preprocessing
 
 ````
-```
 Preprocessing.ipynb
-```
 ````
 
 #### 1. 파생 변수 추가
@@ -69,9 +70,7 @@ Z-score
 제품별 특성을 파악하기 위한 군집 분석
 
 ````
-```
 Kream.ipynb
-```
 ````
 
 - ***수익률/변동성/거래량***
