@@ -19,10 +19,11 @@ MZ 세대 새로운 재테크로 떠오르고 있는 리셀테크
 리셀 시장에 발을 들이고 싶어하는 소비자들을 위한 투자 상품 및 투자 전략 정보 제공
 
 ### Data
-Kream 사이트 내 상품 정보 크롤링
 ````
 kream_data.csv
 ````
+Kream 사이트 내 상품 정보 크롤링
+
 
 |Feature Name|Type|Description|
 |:---:|:---:|:---|
@@ -66,12 +67,14 @@ Z-score
 #### 5. 이상치 제거
 
 ### Experiments
-#### 1. 군집 분석 (Clustering Analysis)
-제품별 특성을 파악하기 위한 군집 분석
 
 ````
 Kream.ipynb
 ````
+
+#### 1. 군집 분석 (Clustering Analysis)
+제품별 특성을 파악하기 위한 군집 분석
+
 
 - ***수익률/변동성/거래량***
   
