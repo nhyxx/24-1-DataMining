@@ -60,10 +60,11 @@ Preprocessing.ipynb
 #### 3. 야콥슨 변환
 한 쪽으로 치우쳐진 데이터들 정규 분포로 변환
 
-#### 4. Scaling
-Z-score
+#### 4. 이상치 제거
+Z-score를 이용한 이상치 제거
 
-#### 5. 이상치 제거
+#### 5. 스케일링
+StandardScaler
 
 ### Experiments
 
