@@ -40,6 +40,12 @@ Kream 사이트 내 상품 정보 크롤링
 
 ### Data Preprocessing
 
+````
+```
+Preprocessing.ipynb
+```
+````
+
 #### 1. 파생 변수 추가
 |Feature Name|Type|Description|
 |:---:|:---:|:---|
@@ -61,6 +67,12 @@ Z-score
 ### Experiments
 #### 1. 군집 분석 (Clustering Analysis)
 제품별 특성을 파악하기 위한 군집 분석
+
+````
+```
+Kream.ipynb
+```
+````
 
 - ***수익률/변동성/거래량***
   
