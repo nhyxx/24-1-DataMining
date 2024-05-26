@@ -25,6 +25,7 @@ kream_data.csv
 Kream 사이트 내 상품 정보 크롤링
 
 
+
 |Feature Name|Type|Description|
 |:---:|:---:|:---|
 |상품명|string|상품 이름|
@@ -47,6 +48,7 @@ Kream 사이트 내 상품 정보 크롤링
 ````
 Preprocessing.ipynb
 ````
+
 
 #### 1. 파생 변수 추가
 |Feature Name|Type|Description|
@@ -71,6 +73,7 @@ Z-score
 ````
 Kream.ipynb
 ````
+
 
 #### 1. 군집 분석 (Clustering Analysis)
 제품별 특성을 파악하기 위한 군집 분석
