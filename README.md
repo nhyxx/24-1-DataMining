@@ -24,8 +24,6 @@ kream_data.csv
 ````
 Kream 사이트 내 상품 정보 크롤링
 
-
-
 |Feature Name|Type|Description|
 |:---:|:---:|:---|
 |상품명|string|상품 이름|
@@ -48,7 +46,6 @@ Kream 사이트 내 상품 정보 크롤링
 ````
 Preprocessing.ipynb
 ````
-
 
 #### 1. 파생 변수 추가
 |Feature Name|Type|Description|
@@ -90,7 +87,7 @@ elbow method를 이용하여 최적의 K 값 찾기
 
 
 ---
-이하 변수들로도 클러스터링 진행하였으나 의미 있는 결과가 나오지 않았다고 판단하여 제외 (코드는 존재)
+이하 변수들로도 클러스터링 진행하였으나 의미 있는 결과가 나오지 않았다고 판단하여 제외 (해당 분석을 위한 전처리, 모델링 코드는 존재)
 
 - 수익률/출시 날짜(duration)/콜라보 여부
   
