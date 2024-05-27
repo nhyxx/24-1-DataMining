@@ -93,6 +93,8 @@ for 반복문으로 최적 군집 수 선정
 
 "dendrogram"
 
+#### Visualization
+![var_agg_result](https://github.com/nhyxx/24-1-DataMining/assets/136895467/9332c060-1776-420c-aa15-f9b8a95dd951)
 
 ---
 ###### 이하 변수들로도 클러스터링 진행하기 위해 위의 과정으로 전처리했고 모델링 진행했으나 의미 있는 결과가 나오지 않았다고 판단하여 아래 목록들은 결과에서 제외함 
