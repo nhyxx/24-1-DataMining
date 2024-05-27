@@ -45,6 +45,7 @@ kream_data.csv
 
 ````
 Preprocessing.ipynb
+df_filtered.csv
 ````
 
 #### 1. 파생 변수 추가
@@ -65,6 +66,7 @@ Z-score를 이용한 이상치 제거
 
 #### 5. 스케일링
 StandardScaler
+
 
 ### Experiments
 
