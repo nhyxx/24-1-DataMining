@@ -75,7 +75,7 @@ df_filtered.csv
 
 
 #### 5-1. 군집 분석 (Clustering Analysis)
-제품별 특성을 파악하기 위한 군집 분석
+제품별 투자 가치를 파악하기 위한 군집 분석
 
 ***수익률/변동성/거래량***
 ````
@@ -88,13 +88,13 @@ Var_DBSCAN.ipynb
 Var_agg.ipynb
 ````
   
-#### 5-1-1. AgglomerativeClustering
+#### Agglomerative Clustering
 for 반복문을 통한 최적 군집 수, linkage 선정
 
 #### Dendrogram
 <img src = "https://github.com/nhyxx/24-1-DataMining/assets/136895467/96168d2d-7dad-484f-bc1a-b63c5051e12b" width="350" height="400">
 
-#### 시각화
+#### 클러스터링 시각화
 <img src = "https://github.com/nhyxx/24-1-DataMining/assets/136895467/9332c060-1776-420c-aa15-f9b8a95dd951" width="400" height="400">
 
 ---
@@ -122,9 +122,9 @@ Dur_agg.ipynb
 ````
 ---
 
-### 6. 분석 결과
+### 5-2. 분석 결과
 
-#### 6-1. 군집 해석 및 클러스터 네이밍
+#### 5-2-1. 군집 해석 및 클러스터 네이밍
 |Cluster Name|Description|
 |:---:|:---:|
 |일단한번해봐 (군집 0)|중간 수익률, 적당한 거래량, 중간 변동성|
@@ -133,7 +133,7 @@ Dur_agg.ipynb
 |나는스릴을즐긴다 (군집 3)|높은 수익률, 적당한 거래량, 매우 높은 변동성|
 |나같으면그냥신음 (군집 4)|낮은 수익률, 적은 거래량, 낮은 변동성|
 
-#### 6-2. 투자 상품 및 전략 추천 
+#### 5-2-2. 투자 상품 및 전략 추천 
 
 리셀 시장 초기 진입자 추천 리스트 (군집 0)
 |상품명|발매가|상품 URL|
@@ -170,7 +170,7 @@ Dur_agg.ipynb
 |나이키 프리미어 3 FG 블랙 화이트|129,000원|/products/85961|
 |(W) 나이키 에어 풋스케이프 우븐 세일 앤 블랙|219,000원|/products/186513|
 
-### 7. 한계점 및 개선방안
+### 6. 한계점 및 개선방안 
 한계점
 
 - 이상치 처리 후 급격하게 줄어든 데이터 샘플 수
