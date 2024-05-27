@@ -91,7 +91,9 @@ Var_agg.ipynb
 #### AgglomerativeClustering
 for 반복문으로 최적 군집 수 선정
 
-"dendrogram"
+dendrogram
+![dendograms](https://github.com/nhyxx/24-1-DataMining/assets/136895467/96168d2d-7dad-484f-bc1a-b63c5051e12b)
+
 
 #### Visualization
 ![var_agg_result](https://github.com/nhyxx/24-1-DataMining/assets/136895467/9332c060-1776-420c-aa15-f9b8a95dd951)
