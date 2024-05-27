@@ -105,19 +105,19 @@ elbow method를 이용하여 최적의 K 값 찾기
 - ###### ⓑ 수익률/브랜드/관심 수
 
 ````
-clustering_a_b.csv
+clustering_a_b.ipynb
 ````
   
 - ###### ⓒ 수익률/거래량/출시 날짜(duration)
 
 ````
-Dur_kmeans.csv
+Dur_kmeans.ipynb
 ````
 ````
-Dur_DBSAN.csv
+Dur_DBSAN.ipynb
 ````
 ````
-Dur_agg.csv
+Dur_agg.ipynb
 ````
 ---
 
