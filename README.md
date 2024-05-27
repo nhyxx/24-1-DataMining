@@ -89,9 +89,9 @@ Var_agg.ipynb
 ````
   
 #### AgglomerativeClustering
-for 반복문으로 최적 군집 수 선정
+for 반복문을 통한 최적 군집 수, linkage 선정
 
-dendrogram
+#### dendrogram
 ![dendograms](https://github.com/nhyxx/24-1-DataMining/assets/136895467/96168d2d-7dad-484f-bc1a-b63c5051e12b)
 
 
