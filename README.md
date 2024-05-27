@@ -45,7 +45,6 @@ kream_data.csv
 
 ````
 Preprocessing.ipynb
-df_filtered.csv
 ````
 
 #### 1. 파생 변수 추가
@@ -67,12 +66,12 @@ Z-score를 이용한 이상치 제거
 #### 5. 스케일링
 StandardScaler
 
+#### 전처리 완료 후 파일 
+````
+df_filtered.csv
+````
 
 ### Experiments
-
-````
-Var_kmeans.ipynb
-````
 
 
 #### 1. 군집 분석 (Clustering Analysis)
@@ -80,13 +79,13 @@ Var_kmeans.ipynb
 
 ***수익률/변동성/거래량***
 ````
-Var_kmeans.csv
+Var_kmeans.ipynb
 ````
 ````
-Var_DBSCAN.csv
+Var_DBSCAN.ipynb
 ````
 ````
-Var_agg.csv
+Var_agg.ipynb
 ````
   
 #### K-means Clustering
