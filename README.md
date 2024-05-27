@@ -75,9 +75,10 @@ df_filtered.csv
 
 
 #### 5-1. 군집 분석 (Clustering Analysis)
-제품별 투자 가치를 파악하기 위한 군집 분석
+투자 가치가 있는 상품들을 파악하기 위한 군집 분석
 
 ***수익률/변동성/거래량***
+
 ````
 Var_kmeans.ipynb
 ````
@@ -90,6 +91,7 @@ Var_agg.ipynb
   
 #### Agglomerative Clustering
 for 반복문을 통한 최적 군집 수, linkage 선정
+-> n_clusters = 5, linkage = 'ward'일 때가 적절하다고 판단
 
 #### Dendrogram
 <img src = "https://github.com/nhyxx/24-1-DataMining/assets/136895467/96168d2d-7dad-484f-bc1a-b63c5051e12b" width="350" height="400">
